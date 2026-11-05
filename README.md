@@ -1,6 +1,7 @@
 # Assessment 3.2: Linear Data Structure
 
-**Name:** RESUJENTO | **Section:** IT2B
+**Name:** RESUJENTO
+**Section:** IT2B
 **Letters used:** R, E, S, U, J, E, N, T, O
 
 ## Purpose
@@ -34,10 +35,6 @@ until it is empty. Each program is in its own file and runs on its own.
 
 Note: `array.py` and `queue.py` share names with Python standard library modules.
 They run fine here because no file imports those modules. Use **Run** (not Debug).
-
-## Upload to GitHub
-**Website:** sign in at github.com, click **+ > New repository**, name it (for example
-`Assessment-3-2-Linear-Data-Structure`), set it to **Public**, and click **Create repository**.
 Click **uploading an existing file**, drag in the six `.py` files, `README.md` and the `outputs`
 folder, then click **Commit changes**. Copy the repository link from the address bar and submit it.
 
