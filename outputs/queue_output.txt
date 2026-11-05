@@ -1,0 +1,24 @@
+Queue created (empty): Front [] Rear
+Enqueued R -> Front ['R'] Rear
+Enqueued E -> Front ['R', 'E'] Rear
+Enqueued S -> Front ['R', 'E', 'S'] Rear
+Enqueued U -> Front ['R', 'E', 'S', 'U'] Rear
+Enqueued J -> Front ['R', 'E', 'S', 'U', 'J'] Rear
+Enqueued E -> Front ['R', 'E', 'S', 'U', 'J', 'E'] Rear
+Enqueued N -> Front ['R', 'E', 'S', 'U', 'J', 'E', 'N'] Rear
+Enqueued T -> Front ['R', 'E', 'S', 'U', 'J', 'E', 'N', 'T'] Rear
+Enqueued O -> Front ['R', 'E', 'S', 'U', 'J', 'E', 'N', 'T', 'O'] Rear
+
+Initial queue: Front ['R', 'E', 'S', 'U', 'J', 'E', 'N', 'T', 'O'] Rear
+
+Dequeued R -> Front ['E', 'S', 'U', 'J', 'E', 'N', 'T', 'O'] Rear
+Dequeued E -> Front ['S', 'U', 'J', 'E', 'N', 'T', 'O'] Rear
+Dequeued S -> Front ['U', 'J', 'E', 'N', 'T', 'O'] Rear
+Dequeued U -> Front ['J', 'E', 'N', 'T', 'O'] Rear
+Dequeued J -> Front ['E', 'N', 'T', 'O'] Rear
+Dequeued E -> Front ['N', 'T', 'O'] Rear
+Dequeued N -> Front ['T', 'O'] Rear
+Dequeued T -> Front ['O'] Rear
+Dequeued O -> Front [] Rear
+
+The queue is now empty.

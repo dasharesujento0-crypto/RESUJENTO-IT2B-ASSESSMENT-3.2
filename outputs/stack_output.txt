@@ -1,0 +1,24 @@
+Stack created (empty): Bottom [] Top
+Pushed R -> Bottom ['R'] Top
+Pushed E -> Bottom ['R', 'E'] Top
+Pushed S -> Bottom ['R', 'E', 'S'] Top
+Pushed U -> Bottom ['R', 'E', 'S', 'U'] Top
+Pushed J -> Bottom ['R', 'E', 'S', 'U', 'J'] Top
+Pushed E -> Bottom ['R', 'E', 'S', 'U', 'J', 'E'] Top
+Pushed N -> Bottom ['R', 'E', 'S', 'U', 'J', 'E', 'N'] Top
+Pushed T -> Bottom ['R', 'E', 'S', 'U', 'J', 'E', 'N', 'T'] Top
+Pushed O -> Bottom ['R', 'E', 'S', 'U', 'J', 'E', 'N', 'T', 'O'] Top
+
+Initial stack: Bottom ['R', 'E', 'S', 'U', 'J', 'E', 'N', 'T', 'O'] Top
+
+Popped O -> Bottom ['R', 'E', 'S', 'U', 'J', 'E', 'N', 'T'] Top
+Popped T -> Bottom ['R', 'E', 'S', 'U', 'J', 'E', 'N'] Top
+Popped N -> Bottom ['R', 'E', 'S', 'U', 'J', 'E'] Top
+Popped E -> Bottom ['R', 'E', 'S', 'U', 'J'] Top
+Popped J -> Bottom ['R', 'E', 'S', 'U'] Top
+Popped U -> Bottom ['R', 'E', 'S'] Top
+Popped S -> Bottom ['R', 'E'] Top
+Popped E -> Bottom ['R'] Top
+Popped R -> Bottom [] Top
+
+The stack is now empty.
