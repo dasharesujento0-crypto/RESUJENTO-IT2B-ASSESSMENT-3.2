@@ -1,7 +1,9 @@
 # Assessment 3.2: Linear Data Structure
 
 **Name:** RESUJENTO
+
 **Section:** IT2B
+
 **Letters used:** R, E, S, U, J, E, N, T, O
 
 ## Purpose
